@@ -1,4 +1,8 @@
-<size=50>0.0.0</size>
-• Lorem ipsum dolor sit amet
-• Lorem ipsum dolor sit amet
-• Lorem ipsum dolor sit amet
+<size=30>Release notes <b>0.0.71</b></size>
+
+Changes
+• Add Patch Notes view
+• Add News view
+
+Fixes
+• Fix bend sphere material
