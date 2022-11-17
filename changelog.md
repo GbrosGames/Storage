@@ -1,3 +1,16 @@
+<size=30>Release notes <b>0.0.73</b></size>
+
+Changes
+- Add performance stats overlay that can be toggled in Settings
+- Move exit buttons of the end game screen to the bottom of the view
+- Increase changelog height
+- Update analytics
+
+Fixes
+- Fix spawn enemies out of the valid area
+- Fix vicotry screen show issue 
+- Fix Enemies killed count display on game end screen
+
 <size=30>Release notes <b>0.0.72</b></size>
 
 Changes
