@@ -1,3 +1,8 @@
+<size=30>Release notes <b>0.0.74</b></size>
+
+Fixes
+- Fix UI not showing up
+
 <size=30>Release notes <b>0.0.73</b></size>
 
 Changes
