@@ -3,12 +3,12 @@
 Fixes
 - Fix analytics environment
 
-<size=30>Release notes <b>0.0.74</b></size>
+<size=18>Release notes <b>0.0.74</b></size>
 
 Fixes
 - Fix UI not showing up
 
-<size=30>Release notes <b>0.0.73</b></size>
+<size=18>Release notes <b>0.0.73</b></size>
 
 Changes
 - Add performance stats overlay that can be toggled in Settings
@@ -43,7 +43,7 @@ Fixes
 - UI - Fix Game Won View
 - Fix dead NPC colliders
 
-<size=30>Release notes <b>0.0.71</b></size>
+<size=18>Release notes <b>0.0.71</b></size>
 
 Changes
 - Add Patch Notes view
