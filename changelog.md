@@ -1,4 +1,4 @@
-<size=18>Release notes <b>0.0.76</b></size>
+<size=18>Release notes <b>0.0.77</b></size>
 
 Changes
 - UI - Update styles
@@ -35,6 +35,9 @@ Fixes
 - Gameplay - Fix delay before hit sound effect
 - Gameplay - Fix magic shield relic reactivation
 - Gameplay - Fix game lost conditions
+
+<size=18>Release notes <b>0.0.76</b></size>
+- Fix project version
 
 <size=18>Release notes <b>0.0.75</b></size>
 
