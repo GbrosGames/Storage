@@ -21,7 +21,7 @@ Fixes
 - Fix vicotry screen show issue 
 - Fix Enemies killed count display on game end screen
 
-<size=30>Release notes <b>0.0.72</b></size>
+<size=18>Release notes <b>0.0.72</b></size>
 
 Changes
 - UI - main panels scale up animation on show
