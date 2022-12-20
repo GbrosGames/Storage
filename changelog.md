@@ -1,3 +1,41 @@
+<size=18>Release notes <b>0.0.76</b></size>
+
+Changes
+- UI - Update styles
+- UI - Add new Main Menu background
+- UI - Add social media panel
+- UI - Add credits view
+- UI - Add new skill icons
+- UI - Add tooltip relic description
+- UI - Add relic description in cards
+- UI - Add cooldown effects on skills
+- UI - Add camera blur while pause
+- UI - Add delay before relic choice show
+- UI - Add general notifications
+- UI - Add current wave details
+- UI - Add game won notification
+- UI - Add game lost notification
+- UI - Update enemies health bars
+- UI - Update button focus sounds
+- UI - Update button hover sounds
+- UI - Update scroll bars
+- UI - Update settings view
+- UI - Update scale settings
+- UI - Update game won view
+- UI - Update game lost view
+- UI - Update elements positioning 
+- General - Disable development hotkeys
+- General - Statistics rework
+- General - Gameplay optimization
+
+
+Fixes
+- UI - Fix scroll behavior
+- UI - Missing sign in relic choice view
+- Gameplay - Fix delay before hit sound effect
+- Gameplay - Fix magic shield relic reactivation
+- Gameplay - Fix game lost conditions
+
 <size=18>Release notes <b>0.0.75</b></size>
 
 Fixes
@@ -31,7 +69,7 @@ Changes
 - Update level requirements
 - Update Global.uss
 - Update Movement Controller
-- Update _Player Character Statistics Profile.asset
+- Update Player Character Statistics Profile
 - Add NavmeshAgent to CharacterBase
 - Gameplay - randomize blood effect
 - Gameplay - general adjustments
@@ -39,9 +77,10 @@ Changes
 - Analytics - game settings changed event
 
 Fixes
-- Fix multiple tooltip instances
+- UI - Fix multiple tooltip instances
 - UI - Fix Game Won View
-- Fix dead NPC colliders
+
+- Gameplay - Fix dead NPC colliders
 
 <size=18>Release notes <b>0.0.71</b></size>
 
