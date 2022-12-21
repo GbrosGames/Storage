@@ -1,3 +1,15 @@
+<size=18>Release notes <b>0.0.78</b></size>
+
+Changes
+- UI - Fix logo splash screen order
+- UI - Fix overlapped content
+
+- UI - Update capitalization in game end view
+- UI - Update settings panel rescaling
+
+Fixes
+- Gameplay - Fix fire nova stun duration
+
 <size=18>Release notes <b>0.0.77</b></size>
 
 Changes
