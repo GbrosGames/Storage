@@ -1,3 +1,28 @@
+<size=18>Release notes <b>0.0.79</b></size>
+
+Changes
+- General - New graphics
+- General - New camera
+- General - Update visuals
+- General - Change logo splash screen order
+
+- UI - Normalize capitalization
+- UI - Update Game Won / Game Lost views
+
+- Gameplay - Add new relic - Longer Sword
+- Gameplay - Add barrel, vase, rock destructables objects into world
+- Gameplay - Add Cast Range statistic
+- Gameplay - Add flying trap enemy
+- Gameplay - Update damage reactions
+
+Fixes
+- UI - Fix scale slider in settings
+- UI - Fix Settings view scaling
+- UI - Fix Main Menu view scaling
+
+- Gameplay - Fix fire nova stun duration
+- Gameplay - Fix game won conditions
+
 <size=18>Release notes <b>0.0.78</b></size>
 
 Changes
@@ -39,7 +64,6 @@ Changes
 - General - Disable development hotkeys
 - General - Statistics rework
 - General - Gameplay optimization
-
 
 Fixes
 - UI - Fix scroll behavior
