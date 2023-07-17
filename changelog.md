@@ -1,3 +1,34 @@
+<size=18>Release notes <b>0.0.86</b></size>
+
+Gameplay:
+- Added HUB and upgrade systems.
+- Added win/loss conditions.
+- Added few example rooms.
+- Improved hitscan control.
+- Added colliders to pillars.
+- Improved objective system.
+- Rebalanced statistics values for Goblins.
+- Added the boss room and boss mechanics.
+- New enemy Boss Goblin.
+- Added Sword Master upgrades.
+- Added Armorsmith upgrades.
+- Implemented saving and loading game state and statistics.
+
+Fixes:
+- Fixed build info to fix environment type.
+- Fixed fireball impact and sword slashes near walls.
+- Fixed null reference exception on level load.
+- Fixed lifetime scopes.
+- Fixed game state load.
+- Fixed loading next waves.
+- Fixed Trap rotation.
+- Fixed bow attack wall collision.
+- Fixed NPC navigation around pillars by adding navmesh carve.
+- Fixed game state check in wave handlers.
+- Fixed scene reloading.
+- Fixed FMOD for destructible sounds.
+- Fixed the health bar for the Goblin boss.
+
 <size=18>Release notes <b>0.0.85</b></size>
 
 Changes:
