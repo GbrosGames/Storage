@@ -1,17 +1,17 @@
 <size=18>2023-07-28 Patch 0.086 is live!</size>
 
 This patch is bringing on a bit of new content :)
-Devlog discussing the patch note is available on itch.io!
+Devlog discussing the patch notes is available on itch.io!
 Please check the patch notes for a list of all changes.
 
 <size=18>2023-05-26 Patch 0.085 is live!</size>
 
-Devlog discussing the patch note is available on itch.io!
+Devlog discussing the patch notes is available on itch.io!
 Please check the patch notes for a list of all changes.
 
 <size=18>2023-04-01 Patch 0.079 is live!</size>
 
-Devlog discussing the patch note is available on itch.io!
+Devlog discussing the patch notes is available on itch.io!
 Please check the patch notes for a list of all changes.
 
 <size=18>2022-11-19 The current state of things</size>
