@@ -1,3 +1,19 @@
+<size=18>2023-07-28 Patch 0.086 is live!</size>
+
+This patch is bringing on a bit of new content :)
+Devlog discussing the patch note is available on itch.io!
+Please check the patch notes for a list of all changes.
+
+<size=18>2023-05-26 Patch 0.085 is live!</size>
+
+Devlog discussing the patch note is available on itch.io!
+Please check the patch notes for a list of all changes.
+
+<size=18>2023-04-01 Patch 0.079 is live!</size>
+
+Devlog discussing the patch note is available on itch.io!
+Please check the patch notes for a list of all changes.
+
 <size=18>2022-11-19 The current state of things</size>
 
 We are working hard on our combat system for quite some time now - so please let us know what you think!
