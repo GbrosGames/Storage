@@ -1,4 +1,4 @@
-<size=18>2023-07-28 Patch 0.086 is live!</size>
+<size=18>2023-07-25 Patch 0.086 is live!</size>
 
 This patch is bringing on a bit of new content :)
 Devlog discussing the patch notes is available on itch.io!
