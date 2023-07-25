@@ -1,6 +1,10 @@
 <size=18>2023-07-25 Patch 0.086 is live!</size>
 
-This patch is bringing on a bit of new content :)
+This patch is bringing on a bit of new content:
+- Island of Trials is currently disabled
+- You can now explore the first concept of our dungeon
+- Hub was added for meta progression
+  
 Devlog discussing the patch notes is available on itch.io!
 Please check the patch notes for a list of all changes.
 
